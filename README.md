@@ -1,4 +1,4 @@
-# Namaste 🙏 , I'm Devesh Vaidya! 👋
+# Hello ! I'm Devesh Vaidya! 👋
 
 ## Few badges which I have earned...
 
