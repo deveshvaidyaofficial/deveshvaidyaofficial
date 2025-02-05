@@ -1,5 +1,6 @@
 # Hello ! I'm Devesh Vaidya! 👋
 
+
 ## Few badges which I have earned...
 
 
@@ -26,6 +27,10 @@
 </br></br>
 <div><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshvaidyaofficial&theme=tokyonight" /></a></div>
 </br></br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deveshvaidyaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 
 
